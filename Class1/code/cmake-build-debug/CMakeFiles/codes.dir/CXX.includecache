@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xuyuhang/Desktop/Programming class/Class1/codes/SortingAlgorithm.cpp
+vector
+-
+iostream
+-
+unordered_map
+-
+
