@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xuyuhang/Desktop/Programming class/Class6/code/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+vector
+-
+queue
+-
+string
+-
+unordered_map
+-
+
